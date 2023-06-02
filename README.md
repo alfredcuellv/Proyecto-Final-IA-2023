@@ -35,3 +35,6 @@ import sys
 
 **Link del código en Colab**
 <https://colab.research.google.com/drive/1DDBFfDsjAFH2eEzvO1seQ6NCQ_FEpVSo?usp=sharing>
+
+**Link del video**
+<https://youtu.be/VJGYN0Gm9ls>
